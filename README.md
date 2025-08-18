@@ -76,12 +76,11 @@ pip install tensorflow numpy opencv-python matplotlib
 
     NASA IMPACT – Marine Debris ML Research
 
+Author Name: Otutu Anslem
+Github: https://github.com/Otutu11
+
 📜 License
 
 MIT License – free to use, adapt, and distribute with attribution.
 
-
----
-
-Would you like me to bundle this into a `.zip` with placeholder folders and scripts to download directly?
 
